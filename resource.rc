@@ -1,0 +1,6 @@
+// Resource IDs
+#define IDR_ICON_DATA 101
+#define IDR_LAGLIFE_DATA 102
+
+IDR_ICON_DATA RCDATA "icon.ico"
+IDR_LAGLIFE_DATA RCDATA "laglife.jpg"
